@@ -39,6 +39,7 @@ img {
     height: auto;
     top: 40vh; /* Reducido de 42vh */
     left: 50vw;
+    z-index: 2;
 }
 
 /* Estilo para el menú */
