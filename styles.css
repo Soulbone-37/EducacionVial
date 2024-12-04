@@ -39,7 +39,7 @@ img {
     height: auto;
     top: 40vh; /* Reducido de 42vh */
     left: 50vw;
-    z-index: 3;
+    z-index: 2;
 }
 
 /* Estilo para el menú */
@@ -52,7 +52,7 @@ img {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     padding: 10px;
     border-radius: 5px;
-    z-index: 10; /* Asegúrate de que esté por encima de otros elementos */
+    z-index: 4; /* Asegúrate de que esté por encima de otros elementos */
     opacity: 0; /* Inicialmente invisible */
     visibility: hidden; /* Inicialmente oculto */
     transition: opacity 0.3s ease, visibility 0s 0.3s; /* Transición suave */
