@@ -300,7 +300,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Peaton:hover .Hover_Peaton {
@@ -319,7 +319,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Bicicleta:hover .Hover_Bicicleta {
@@ -338,7 +338,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Nino:hover .Hover_Nino {
@@ -357,7 +357,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Sema:hover .Hover_Sema {
@@ -376,7 +376,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Cicloruta:hover .Hover_Cicloruta {
@@ -395,7 +395,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Patin:hover .Hover_Patin {
@@ -414,7 +414,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Perro:hover .Hover_Perro {
@@ -433,7 +433,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Bebe:hover .Hover_Bebe {
@@ -452,7 +452,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Zebra:hover .Hover_Zebra {
@@ -471,7 +471,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Carrito:hover .Hover_Carrito {
@@ -490,7 +490,7 @@ img {
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     pointer-events: none;
-    z-index: 2; /* Visible sobre imágenes al hacer hover */
+    z-index: 5; /* Visible sobre imágenes al hacer hover */
 }
 
 .Anden:hover .Hover_Anden {
